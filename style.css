@@ -1,0 +1,17 @@
+h1{
+  text-align: left;
+}
+
+ul{
+  list-style-type: none;
+}
+li {
+    height: 100px;
+    
+}
+img{
+  float: right;
+}
+.events{
+  font-weight: bold;
+}
